@@ -1,2 +1,2 @@
 # PatientAdmissionSystem
-Admit patients and diagnose them
+System that admits patients and assigns them treatments
